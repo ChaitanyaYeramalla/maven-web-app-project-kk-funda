@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK AWS</h1>
-<h1 align="center"> Chaitanya09/05/2025 time: 17:00 Declarative PL</h1>
+<h1 align="center">Welcome to KK Funda AWS DevOps</h1>
+<h1 align="center"> Chaitanya09/05/2025 time: 17:00 Declarative way PL</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
