@@ -43,7 +43,7 @@ pipeline {
                 echo 'Deploying WAR file using curl...'
                 sh '''
                     curl -u chaitanya:4267@Chaitu \
-            --upload-file /var/lib/jenkins/workspace/MBPL-Jio/prod-2/target/maven-web-application.war \
+            --upload-file /var/lib/jenkins/workspace/MBPL-Jio_prod-2/target/maven-web-application.war \
             "http://3.82.216.212:8080//manager/text/deploy?path=/maven-web-application&update=true"
                 '''
             }
